@@ -1,0 +1,50 @@
+.Submit {
+    padding-left: 0.9%;
+    padding-top: 0.5%;
+} 
+
+.title {
+    font-size: 32px;
+}
+
+h3 {
+    padding-left: 0.5%;
+    padding-top: 0.5%;
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+label {
+    font-size: 18px;
+}
+
+.fname {
+    padding-left: 0.8%;
+    padding-top: 0.5%;
+}
+
+.lname {
+    padding-left: 0.8%;
+    padding-top: 0.5%;
+}
+
+.countrylist {
+    padding-left: 0.8%;
+    padding-top: 0.5%;
+}
+
+.date {
+    padding-left: 0.8%;
+    padding-top: 0.5%;
+}
+
+.number {
+    padding-left: 0.8%;
+    padding-top: 0.5%;
+}
+
